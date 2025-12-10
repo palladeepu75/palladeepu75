@@ -17,7 +17,7 @@ Feel free to reach out for anything tech — collaboration, guidance, or just a 
 
 Languages
 
-<img src="https://skillicons.dev/icons?i=java,js,html,css,mysql" />
+<img src="https://skillicons.dev/icons?i=java,js,html,css,mysql,python" />
 
 Frameworks & Libraries
 
