@@ -15,16 +15,19 @@ Feel free to reach out for anything tech — collaboration, guidance, or just a 
 
 🛠️ Tech Stack
 
-Languages
+Programming Languages:
+<img src="https://skillicons.dev/icons?i=java,python" />
 
-<img src="https://skillicons.dev/icons?i=java,js,html,css,mysql,python" />
+web Tech:
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript" />
 
-Frameworks & Libraries
+Frameworks & Libraries:
+<img src="https://skillicons.dev/icons?i=spring,react,angular,bootstrap,tailwindcss" />
 
-<img src="https://skillicons.dev/icons?i=spring,react,angular,bootstrap" />
+Tools & Platforms:
+<img src="https://skillicons.dev/icons?i=git,maven,vscode" />
 
-Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,maven" />
+Databases:
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 
 
