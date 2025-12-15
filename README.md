@@ -25,7 +25,7 @@ web Tech:
 
 Frameworks & Libraries:
 
-<img src="https://skillicons.dev/icons?i=spring,,nodejs,react,angular,bootstrap,tailwindcss" />
+<img src="https://skillicons.dev/icons?i=spring,nodejs,react,angular,bootstrap,tailwindcss" />
 
 Tools & Platforms:
 
