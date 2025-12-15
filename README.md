@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Palla Divya Deepak</h1>
-<h3 align="center">Full Stack Developer | Backend & Web Technologies Enthusiast | Data Analytics</h3>
+<h3 align="center">Full Stack Developer | Backend & Web Technologies Enthusiast | Data Analytics </h3>
 
 ---
 
@@ -8,7 +8,7 @@
 Feel free to reach out for anything tech — collaboration, guidance, or just a friendly chat!
 
 📧 Email: **palladeepu75@gmail.com**  
-🌐 Portfolio: **https://www.linkedin.com/in/divya-deepak-palla/**  
+🌐 LinkedIn: **https://www.linkedin.com/in/divya-deepak-palla/**  
 📍 Location: India
 
 ---
