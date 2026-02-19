@@ -29,7 +29,7 @@ Frameworks & Libraries:
 
 Tools & Platforms:
 
-<img src="https://skillicons.dev/icons?i=git,postman,maven,vscode" />
+<img src="https://skillicons.dev/icons?i=git,postman,maven,vscode,eclipse,docker" />
 
 Databases:
 
