@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Palla Divya Deepak</h1>
+<h1 align="center">Hi 👋, I'm Deepak</h1>
 <h3 align="center">Full Stack Developer | Backend & Web Technologies Enthusiast | Data Analytics </h3>
 
 ---
